@@ -1,0 +1,12 @@
+.bg{
+    background-color: black;
+    color: white;
+}
+.but{
+    margin:30px;
+}
+.img{
+    height: 75%;
+    width: 75%;
+    border-radius: 10px;
+}
