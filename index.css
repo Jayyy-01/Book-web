@@ -1,0 +1,40 @@
+.back{
+    background-color: black;
+}
+.prime{
+background-color: rgb(126, 195, 188);
+border-radius: 10px;
+margin: 10px;
+}
+.but{
+    margin-bottom: 5px;
+}
+
+.head{
+    color: white;
+    margin-left: 20px;
+}
+.bg{
+    color: white;
+}
+.first{
+    color: white;
+}
+.second{
+    color: white;
+}
+.image{
+height: 180px;
+width: 160px;
+margin-right: 20px;
+margin-bottom: 15px;
+margin-top: 10px;
+border-radius: 10px;
+}
+.image1{
+    height: 200px;
+    width: 150px;
+    margin-right: 40px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
